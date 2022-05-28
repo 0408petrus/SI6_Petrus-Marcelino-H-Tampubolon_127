@@ -19,14 +19,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | The auto-detection mechanism exists only for convenience during
 | development and MUST NOT be used in production!
 |
-| If you need to allow multiple domains, remember that this file is still
+| If you need to allow--- multiple domains, remember that this file is still
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '';
+$config['base_url'] = 'http://localhost/SI6_Petrus Marcelino H Tampubolon_127';
 
 /*
-|--------------------------------------------------------------------------
+|-----------------------------------------------------------------------
 | Index File
 |--------------------------------------------------------------------------
 |
@@ -35,7 +35,7 @@ $config['base_url'] = '';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
